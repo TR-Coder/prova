@@ -6,3 +6,6 @@ def segon():
 
 def tercer():
     print('tercer')
+
+def quart():
+    print('quart')
